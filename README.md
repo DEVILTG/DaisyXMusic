@@ -5,7 +5,7 @@
 # Available on telegram as @miko_music_bot
 
 <p align="center">
-  <img src="https://telegra.ph/file/2c552fba00dcb6f14be4c.jpg">
+  <img src="https://telegra.ph/file/f06527c205444f9b6b966.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
