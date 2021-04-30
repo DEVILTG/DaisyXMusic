@@ -559,8 +559,5 @@ async def play(_, message: Message):
         return await lel.delete()
 
 
-        
-    )
-    os.remove("final.png")
 
 # Have u read all. If read RESPECT :-)
